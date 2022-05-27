@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1065584143247",
+    "firebase_url": "https://gestioncontact-722d1-default-rtdb.firebaseio.com",
+    "project_id": "gestioncontact-722d1",
+    "storage_bucket": "gestioncontact-722d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065584143247:android:d534d862d30a480d14b9fa",
+        "android_client_info": {
+          "package_name": "com.example.gestioncontacts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065584143247-mfl44bu7h6jn63oq48e36a9cmo1hc1si.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtJEwznwiLmCbWcyJf2-gdRaDM46vvGmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065584143247-mfl44bu7h6jn63oq48e36a9cmo1hc1si.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
